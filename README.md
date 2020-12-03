@@ -1,7 +1,6 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Hello%20World&fontSize=90&animation=fadeIn)
 
-
+### Hi there 👋
 
 <!--
 **NewWisdom/NewWisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
