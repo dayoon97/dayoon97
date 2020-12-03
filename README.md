@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Hello%20World&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=yellow&height=100&section=header&text=Hello%20World&fontSize=90)
 
 ### Hi there 👋
 
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=green&height=100&section=footer)
 
 
