@@ -1,4 +1,7 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Hello%20World&fontSize=90&animation=fadeIn)
+
+
 
 <!--
 **NewWisdom/NewWisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer)
+
+
