@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#F3FA13&height=100&section=header&text=Hello%20World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F3FA13&height=100&section=header&text=Hello%20World&fontSize=90)
 
 ### Hi there 👋
 
@@ -19,6 +19,6 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0000FF&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=242BFA&height=100&section=footer)
 
 
