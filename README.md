@@ -3,10 +3,10 @@
 <h2 align="center"> Hi there 👋 </h2>
 
 
-<p align="center"> 🔭 I’m currently working on ...  </p> <p align="center"> 🍃 Spring,  ☕ JAVA </p>
-<p align="center"> 🌱 I’m currently learning ...  React, Node.js </p>
-<p align="center"> 🤔 I’m looking for help with ...  </p>
-<p align="center"> 📫 How to reach me: ekdbsekdbs@gmail.com </p>
+<p align="center"> 🔭 I’m currently working on   </p> <p align="center"> 🍃 Spring,  ☕ JAVA </p>
+<p align="center"> 🌱 I’m currently learning  </p> <p align="center"> ReactJS, JPA </p>
+<p align="center"> 🤔 I’m looking for help with  </p>
+<p align="center"> 📫 How to reach me </p> <p align="center"> ekdbsekdbs@gmail.com </p>
 <p align="center"> 💙Manchester City Fan💙 </p>
 
 
