@@ -3,7 +3,7 @@
 <h2 align="center"> Hi there 👋 </h2>
 
 
-<p align="center"> 🔭 I’m currently working on   </p> <p align="center"> 🍃 Spring,  ☕ JAVA </p>
+<p align="center"> 🔭 I’m currently working on   </p> <p align="center"> 🍃 Spring,  ☕ JAVA, JQUERY, JAVAScript</p>
 <p align="center"> 🌱 I’m currently learning  </p> <p align="center"> ReactJS, JPA </p>
 <p align="center"> 📫 How to reach me </p> <p align="center"> ekdbsekdbs@gmail.com </p>
 
