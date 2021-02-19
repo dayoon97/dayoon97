@@ -7,7 +7,6 @@
 <p align="center"> 🌱 I’m currently learning  </p> <p align="center"> ReactJS, JPA </p>
 <p align="center"> 📫 How to reach me </p> <p align="center"> ekdbsekdbs@gmail.com </p>
 
-<hr>
 <p align="center"> 💙Manchester City Fan💙 </p>
 
 
