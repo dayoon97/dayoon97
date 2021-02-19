@@ -13,9 +13,6 @@
 
 
 
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=242BFA&height=100&section=footer)
 
 
