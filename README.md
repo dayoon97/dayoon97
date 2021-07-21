@@ -3,9 +3,9 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
-<p align="center"> 🔭 I’m currently working on 🔭</p> <p align="center"> 🍃 Spring,  ☕ JAVA, JQUERY, JAVAScript, MySql, Oracle</p>
-<p align="center"> 🌱 I’m currently learning 🌱 </p> <p align="center"> ReactJS, JPA, Jwt, Apache SPARK, Linux, Docker, K8s </p>
-<p align="center"> 📫 How to reach me 📫 </p> <p align="center"> ekdbsekdbs@gmail.com </p>
+<p align="center"> 🔭 I’m currently working on 🔭</p> <p align="center"> 🍃 Spring,  ☕ JAVA, JQUERY, JAVAScript, MySql, mariadb, Docker, Linux, Spring boot</p>
+<p align="center"> 🌱 I’m currently learning 🌱 </p> <p align="center"> JPA, Jwt, Docker, K8s, Spring Cloud</p>
+<p align="center"> 📫 How to reach me 📫 </p> <p align="center"> dayoon.sim@gmail.com </p>
 
 <p align="center"> 💙Manchester City Fan💙 </p>
 
